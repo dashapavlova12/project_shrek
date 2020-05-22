@@ -1,5 +1,5 @@
 //
-// Created by snumbrikvolgo on 02.05.20.
+// Created by dashapavlova on 02.05.20.
 //
 
 #ifndef PROJECT_ENEMY_H
