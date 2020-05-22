@@ -1,0 +1,81 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dashapavlova/Рабочий стол/project/enemy.cpp
+enemy.h
+/home/dashapavlova/Рабочий стол/project/enemy.h
+map.h
+/home/dashapavlova/Рабочий стол/project/map.h
+iostream
+-
+
+/home/dashapavlova/Рабочий стол/project/enemy.h
+entity.h
+/home/dashapavlova/Рабочий стол/project/entity.h
+
+/home/dashapavlova/Рабочий стол/project/entity.cpp
+SFML/Graphics.hpp
+-
+entity.h
+/home/dashapavlova/Рабочий стол/project/entity.h
+
+/home/dashapavlova/Рабочий стол/project/entity.h
+SFML/Graphics.hpp
+-
+
+/home/dashapavlova/Рабочий стол/project/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+sstream
+-
+entity.h
+/home/dashapavlova/Рабочий стол/project/entity.h
+player.h
+/home/dashapavlova/Рабочий стол/project/player.h
+enemy.h
+/home/dashapavlova/Рабочий стол/project/enemy.h
+view.h
+/home/dashapavlova/Рабочий стол/project/view.h
+list
+-
+mission.h
+/home/dashapavlova/Рабочий стол/project/mission.h
+
+/home/dashapavlova/Рабочий стол/project/map.h
+SFML/Graphics.hpp
+-
+
+/home/dashapavlova/Рабочий стол/project/mission.h
+string.h
+-
+iostream
+-
+
+/home/dashapavlova/Рабочий стол/project/player.cpp
+player.h
+/home/dashapavlova/Рабочий стол/project/player.h
+iostream
+-
+SFML/Graphics.hpp
+-
+
+/home/dashapavlova/Рабочий стол/project/player.h
+SFML/Graphics.hpp
+-
+map.h
+/home/dashapavlova/Рабочий стол/project/map.h
+entity.h
+/home/dashapavlova/Рабочий стол/project/entity.h
+view.h
+/home/dashapavlova/Рабочий стол/project/view.h
+
+/home/dashapavlova/Рабочий стол/project/view.h
+SFML/Graphics.hpp
+-
